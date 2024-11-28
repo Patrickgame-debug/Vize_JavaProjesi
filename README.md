@@ -1,4 +1,4 @@
-Piri Reis Sinema Sistemi
+ Ümit Güldalı - Piri Reis Sinema Sistemi
 ---
 Java ile geliştirilmiş bir Sinema Yönetim Sistemi
 Bu proje, kullanıcıların bir sinema salonu yönetim sistemini konsol uygulaması olarak deneyimlemelerini amaçlar. Kullanıcılar; film, salon ve müşteri kayıtları oluşturabilir, filmleri listeleyebilir, koltuk rezervasyonu yapabilir ve salonlara müşteri atayabilir. Ayrıca, yeni filmler ve salonlar eklenebilir.
